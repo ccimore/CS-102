@@ -1,2 +1,2 @@
-# CS-102
-Final Project for CS 102
+# CodeCademy
+Project for CodeCademy Pro CS 102
